@@ -38,5 +38,5 @@
 - 在 Magisk 中刷入 LSPosed-v1.9.2-7024-zygisk-release.zip
 - 重启设备后，通过 LSPosed 管理器安装 / 管理模块
 
-  ### 3.uXuexitongJS 学习通刷课使用
-  - 详细使用教程请访问：https://github.com/unraous/uXuexitongJS
+### 3.uXuexitongJS 学习通刷课使用
+- 刷课详细使用教程请访问：https://github.com/unraous/uXuexitongJS
